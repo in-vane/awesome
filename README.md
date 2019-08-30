@@ -17,6 +17,10 @@
 
 - [直接看资源汇总吧](https://github.com/justjavac/awesome-wechat-weapp)
 
+## Git
+
+- [git-flight-rules使用Git遇到问题了？]([git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md))
+
 ## 有趣的站点
 
 - [复原黑白照片的颜色](https://colorize.cc/)
@@ -30,6 +34,8 @@
 - [MikuTools工具合集](https://tools.imiku.me/)
 - [ToolFK工具合集](https://www.toolfk.com/)
 - [CODELF变量命名](https://unbug.github.io/codelf/)
+- [Writeathon在线写作工具，基于极简理念，提供简洁、高效、专注的写作体验](https://www.writeathon.cn/)
+- [Sci-Hub科学论文下载](https://whereisscihub.now.sh/)
 
 ## 存储
 
