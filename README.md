@@ -19,7 +19,7 @@
 
 ## Git
 
-- [git-flight-rules使用Git遇到问题了？]([git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md))
+- [git-flight-rules使用Git遇到问题了？](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
 ## 有趣的站点
 
