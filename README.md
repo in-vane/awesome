@@ -1,6 +1,6 @@
 # awesome ![awesome](https://img.shields.io/badge/invane-awesome-%23cb1b45)
 
-一个图书馆，收集平时平时看到的资源以供翻阅。
+一个图书馆，收集平时看到的资源以供翻阅。
 
 
 
