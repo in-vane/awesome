@@ -1,4 +1,4 @@
-# awesome ![awesome](https://img.shields.io/badge/invane-awesome-%23cb1b45)
+# awesome ![awesome](https://img.shields.io/badge/invane-awesome-%23c73e3a)
 
 一个图书馆，收集平时看到的资源以供翻阅。
 
@@ -36,6 +36,8 @@
 - [CODELF变量命名](https://unbug.github.io/codelf/)
 - [Writeathon在线写作工具，基于极简理念，提供简洁、高效、专注的写作体验](https://www.writeathon.cn/)
 - [Sci-Hub科学论文下载](https://whereisscihub.now.sh/)
+- [Shields自定义Github徽章](https://shields.io/)
+- [Research中文的聚合搜索](http://www.suiyuanka.com/)
 
 ## 存储
 
@@ -48,6 +50,7 @@
 
 ## 闲来看看
 
+- [OhMyRSS](https://ohmyrss.com/)
 - [JoelOnSoftware](https://www.joelonsoftware.com/)
 - [Ruanyifeng](http://www.ruanyifeng.com/blog/archives.html)
 - [awesome](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh#what-should-a-programmer-know)
