@@ -1,4 +1,4 @@
-# awesome ![awesome](https://img.shields.io/badge/invane-awesome-%23c73e3a)
+# awesome ![awesome](https://img.shields.io/badge/library-invane-%23cb1b45)
 
 一个图书馆，收集平时看到的资源以供翻阅。
 
