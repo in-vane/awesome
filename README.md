@@ -21,6 +21,29 @@
 
 - [git-flight-rules使用Git遇到问题了？](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
+## 工具站点
+
+- [MikuTools工具合集](https://tools.imiku.me/)
+- [ToolFK工具合集](https://www.toolfk.com/)
+- [又一个工具箱](http://www.atoolbox.net/)
+- [CODELF变量命名](https://unbug.github.io/codelf/)
+- [Writeathon在线写作工具](https://www.writeathon.cn/)
+- [Sci-Hub科学论文下载](https://whereisscihub.now.sh/)
+- [Shields自定义Github徽章](https://shields.io/)
+- [Research中文的聚合搜索](http://www.suiyuanka.com/)
+- [好像是可以轻松一点做PPT?](https://www.beautiful.ai)
+
+## 看起来很厉害
+
+- [基于WebGL实现的酷炫流体渲染效果](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+
+## 存储与资源
+
+- [MEGAsync](https://cloudconvert.com/)
+- [Kindle电子书](https://kindle.51nazhun.pub/)
+- [Film电影](https://www.dy2018.com/)
+- [FreeStockPhotos图库](https://taken.photos/)
+
 ## 有趣的站点
 
 - [复原黑白照片的颜色](https://colorize.cc/)
@@ -28,25 +51,7 @@
 - [The Art Institute of Chicago高清画集](https://www.artic.edu/collection)
 - [TurnVideosIntoComics](https://comixify.ii.pw.edu.pl/)
 - [MakeCode](https://makecode.com/blog/arcade/01-18-2019)
-
-## 工具站点
-
-- [MikuTools工具合集](https://tools.imiku.me/)
-- [ToolFK工具合集](https://www.toolfk.com/)
-- [CODELF变量命名](https://unbug.github.io/codelf/)
-- [Writeathon在线写作工具，基于极简理念，提供简洁、高效、专注的写作体验](https://www.writeathon.cn/)
-- [Sci-Hub科学论文下载](https://whereisscihub.now.sh/)
-- [Shields自定义Github徽章](https://shields.io/)
-- [Research中文的聚合搜索](http://www.suiyuanka.com/)
-
-## 存储
-
-- [MEGAsync](https://cloudconvert.com/)
-
-## 资源
-
-- [Kindle电子书](https://kindle.51nazhun.pub/)
-- [Film电影](https://www.dy2018.com/)
+- [灵丘民间故事](https://github.com/folkstory/lingqiu-folk-story)
 
 ## 闲来看看
 
