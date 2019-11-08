@@ -27,27 +27,37 @@
 
 - [应用图标工厂](https://icon.wuruihong.com/)
 
-## 工具站点
+## 工具集合站点
 
 - [MikuTools工具合集](https://tools.imiku.me/)
 - [ToolFK工具合集](https://www.toolfk.com/)
 - [又一个工具箱](http://www.atoolbox.net/)
-- [CODELF变量命名](https://unbug.github.io/codelf/)
+
+## 文档相关
+
 - [Writeathon在线写作工具](https://www.writeathon.cn/)
+- [OfficeConverter格式转换](https://cn.office-converter.com/)
+
+## 编程工具相关
+
+- [CODELF变量命名](https://unbug.github.io/codelf/)
 - [Shields自定义Github徽章](https://shields.io/)
 - [Research中文的聚合搜索](http://www.suiyuanka.com/)
 - [CanIUse查询兼容性](https://www.caniuse.com/)
-- [Resume生成你的简历](https://resume.io/)
 - [Regexper正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F)
+- [naniod极小的uuid生成库](https://github.com/ai/nanoid/)
 
 ## 资源
 
 - [好像是可以轻松一点做PPT?](https://www.beautiful.ai)
 - [中文的日语初学者教程](https://res.wokanxing.info/jpgramma/)
+- [不用翻墙的Chrome扩展商店](http://chromecj.com/)
+- [MSDN我告诉你](https://msdn.itellyou.cn/)
 
 ## 看起来很厉害
 
 - [基于WebGL实现的酷炫流体渲染效果](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Resume生成你的简历](https://resume.io/)
 
 ## 存储与资源仓库
 
@@ -68,6 +78,7 @@
 - [MakeCode](https://makecode.com/blog/arcade/01-18-2019)
 - [灵丘民间故事](https://github.com/folkstory/lingqiu-folk-story)
 - [东京地铁实时3D图](https://nagix.github.io/mini-tokyo-3d/)
+- [可以打印下来的折纸地球仪](https://mapscaping.com/pages/folding-paper-globes)
 
 ## 闲来看看
 
@@ -77,6 +88,7 @@
 - [awesome](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh#what-should-a-programmer-know)
 - [HackerNews](https://news.ycombinator.com/)
 - [Awwwrds](https://www.awwwards.com/)
+- [MNWeekly](https://github.com/rogerzhu/MNWeeklyCategory)
 
 ## 厉害的工作室
 
