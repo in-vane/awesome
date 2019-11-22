@@ -24,6 +24,9 @@
 ### 移动端
 - [一键生成所有尺寸的启动图与图标](https://icon.wuruihong.com/)
 
+### 组件
+- [React-Hook-Form](https://react-hook-form.com/zh/)
+
 ### 一些小工具
 - [CODELF变量命名](https://unbug.github.io/codelf/)
 - [Shields自定义Github徽章](https://shields.io/)
@@ -53,6 +56,7 @@
 - [BYG影视](http://www.byg521.com/)
 - [在线之家](https://www.zxzjs.com/)
 - [Neets](https://neets.cc/)
+- [字幕库](http://www.zimuku.la/)
 
 ### 电子书
 > 这里只列了三个，还有很多可以自行检索关键词【电子书 检索引擎】
@@ -74,6 +78,7 @@
 - [MSDN我告诉你](https://msdn.itellyou.cn/)
 - [好像是可以轻松一点做PPT?](https://www.beautiful.ai)
 - [Resume生成你的简历](https://resume.io/)
+- [一个法律仓库，在线搜索国内的法律](http://www.faxin.cn/keyword/index.aspx)
 
 
 
@@ -85,7 +90,7 @@
 - [HackerNews-这地儿我上不去](https://news.ycombinator.com/)
 - [JoelOnSoftware-Joe谈软件](https://www.joelonsoftware.com/)
 - [MNWeekly-码农周刊](https://github.com/rogerzhu/MNWeeklyCategory)
-- [Best-websites-a-programmer-should-visit](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh#what-should-a-programmer-know)
+- [一大个Awesome](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh#what-should-a-programmer-know)
 
 
 
@@ -104,3 +109,15 @@
 - [东京地铁实时3D图](https://nagix.github.io/mini-tokyo-3d/)
 - [可以打印下来的折纸地球仪](https://mapscaping.com/pages/folding-paper-globes)
 - [基于WebGL实现的酷炫流体渲染效果](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [整个页面都是3D的个人主页，真的酷](https://bruno-simon.com/)
+  [源码是开源的](https://github.com/brunosimon/folio-2019)
+- [泄漏保密信息的谷歌搜素命令](https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt)
+- [把游戏做成操作系统，U盘插入即启动！](https://github.com/CasterWx/AntzGameOS)
+
+
+
+## 社会化书签站点
+### 泛图片收藏
+> 就花瓣那种
+- [Pinterest](https://www.pinterest.com/)
+  [Pinbox-国产的在线服务，网址、图片、文本都可](https://withpinbox.com/)
