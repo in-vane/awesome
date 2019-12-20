@@ -19,13 +19,15 @@
 
 ### Git
 - [git-flight-rules使用Git遇到问题了？](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
-- [commit的参考规范](https://www.conventionalcommits.org/zh-cn/v1.0.0-beta.4/)
+- [commit的参考规范](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### 移动端
 - [一键生成所有尺寸的启动图与图标](https://icon.wuruihong.com/)
+- [Secharts-RN图表组件库](https://github.com/shifeng1993/react-native-secharts)
 
 ### 组件
 - [React-Hook-Form](https://react-hook-form.com/zh/)
+- [js实现的Github头像生成器](https://github.com/stewartlord/identicon.js)
 
 ### 一些小工具
 - [CODELF变量命名](https://unbug.github.io/codelf/)
@@ -64,6 +66,9 @@
 - [Jiumo鸠摩-电子书聚合检索](https://www.jiumodiary.com/)
 - [Genesis-英文电子书检索](http://gen.lib.rus.ec/)
 - [Gutenberg-公版书检索](http://www.gutenberg.org/)
+> zy的发现
+- [世界数字图书馆](https://www.wdl.org/zh/)
+- [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/)
 
 ### 检索工具
 - [海盗湾的访问代理](https://www.pirateproxy.space/)
@@ -83,6 +88,7 @@
 
 
 ## 资讯
+- [Feedly](https://feedly.com/)
 - [OhMyRSS](https://ohmyrss.com/)
 - [Ruanyifeng](http://www.ruanyifeng.com/blog/archives.html)
 - [Awwwrds](https://www.awwwards.com/)
@@ -113,6 +119,7 @@
   [源码是开源的](https://github.com/brunosimon/folio-2019)
 - [泄漏保密信息的谷歌搜素命令](https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt)
 - [把游戏做成操作系统，U盘插入即启动！](https://github.com/CasterWx/AntzGameOS)
+- [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 
 
 
