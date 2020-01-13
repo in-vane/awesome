@@ -9,7 +9,7 @@
 - [uiGradients随机给予的渐变色](https://uigradients.com/)
 - [ColorSchemeDesigner配色器](http://peise.net/tools/web/)
 - [Grabient可调颜色与角度的渐变色](https://www.grabient.com/)
-- [CSSFX-Hover与Loading集](https://cssfx.dev/)
+- [CSSFX-Hover与Loading集](https://cssfx.netlify.com/)
 - [Hover.css集](http://ianlunn.github.io/Hover/)
 - [EpicSpinners-Loading集](https://epic-spinners.epicmax.co/#/)
 - [SpeckyboyCSS背景设计](https://speckyboy.com/css-background-effects/)
@@ -120,6 +120,8 @@
 - [泄漏保密信息的谷歌搜素命令](https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt)
 - [把游戏做成操作系统，U盘插入即启动！](https://github.com/CasterWx/AntzGameOS)
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+- [MacDynamicWallpaper(.heic)](https://dynamicwallpaper.club/)
+- [Neal.fun](https://neal.fun/)
 
 
 
