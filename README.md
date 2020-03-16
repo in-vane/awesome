@@ -13,6 +13,8 @@
 - [Hover.css集](http://ianlunn.github.io/Hover/)
 - [EpicSpinners-Loading集](https://epic-spinners.epicmax.co/#/)
 - [SpeckyboyCSS背景设计](https://speckyboy.com/css-background-effects/)
+- [CSS奇思妙想效果的一个仓库](https://github.com/chokcoco/magicCss)
+- [好看的占位图](https://generative-placeholders.glitch.me/)
 
 ### 小程序
 - [直接看资源汇总吧](https://github.com/justjavac/awesome-wechat-weapp)
@@ -36,12 +38,16 @@
 - [Regexper正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F)
 - [naniod极小的uuid生成库](https://github.com/ai/nanoid/)
 
+### 面试
+- [仓库作者校招时的知识点笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+
 
 
 ## 文档类
 
 - [Writeathon在线写作工具](https://www.writeathon.cn/)
 - [OfficeConverter格式转换](https://cn.office-converter.com/)
+- [中文文案排版指南](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
 
 
 
