@@ -12,12 +12,12 @@
 - [CSSFX-Hover与Loading集](https://cssfx.netlify.com/)
 - [Hover.css集](http://ianlunn.github.io/Hover/)
 - [EpicSpinners-Loading集](https://epic-spinners.epicmax.co/#/)
-- [SpeckyboyCSS背景设计](https://speckyboy.com/css-background-effects/)
-- [CSS奇思妙想效果的一个仓库](https://github.com/chokcoco/magicCss)
-- [好看的占位图](https://generative-placeholders.glitch.me/)
+- [背景设计](https://speckyboy.com/css-background-effects/)
+- [奇思妙想](https://github.com/chokcoco/magicCss)
+- [占位图](https://generative-placeholders.glitch.me/)
 
 ### 小程序
-- [直接看资源汇总吧](https://github.com/justjavac/awesome-wechat-weapp)
+- [一个资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 
 ### Git
 - [git-flight-rules使用Git遇到问题了？](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
@@ -36,7 +36,7 @@
 - [Shields自定义Github徽章](https://shields.io/)
 - [CanIUse查询兼容性](https://www.caniuse.com/)
 - [Regexper正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F)
-- [naniod极小的uuid生成库](https://github.com/ai/nanoid/)
+- [Nginx的图形配置界面](https://www.digitalocean.com/community/tools/nginx)
 
 ### 面试
 - [仓库作者校招时的知识点笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
@@ -44,7 +44,6 @@
 
 
 ## 文档类
-
 - [Writeathon在线写作工具](https://www.writeathon.cn/)
 - [OfficeConverter格式转换](https://cn.office-converter.com/)
 - [中文文案排版指南](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
@@ -55,6 +54,7 @@
 ### 图
 - [FreeStockPhotos图库](https://taken.photos/)
 - [The Art Institute of Chicago高清画集](https://www.artic.edu/collection)
+- [古典艺术品的照片与海报](https://artvee.com/)
 
 ### 影视
 > 也没怎么用，能搜到那恭喜您
@@ -67,8 +67,7 @@
 - [字幕库](http://www.zimuku.la/)
 
 ### 电子书
-> 这里只列了三个，还有很多可以自行检索关键词【电子书 检索引擎】
-> 检索【书名 + 格式】也有奇效
+> 检索【书名 + 格式】以直接检索
 - [Jiumo鸠摩-电子书聚合检索](https://www.jiumodiary.com/)
 - [Genesis-英文电子书检索](http://gen.lib.rus.ec/)
 - [Gutenberg-公版书检索](http://www.gutenberg.org/)
@@ -90,19 +89,6 @@
 - [好像是可以轻松一点做PPT?](https://www.beautiful.ai)
 - [Resume生成你的简历](https://resume.io/)
 - [一个法律仓库，在线搜索国内的法律](http://www.faxin.cn/keyword/index.aspx)
-
-
-
-## 资讯
-- [Feedly](https://feedly.com/)
-- [OhMyRSS](https://ohmyrss.com/)
-- [Ruanyifeng](http://www.ruanyifeng.com/blog/archives.html)
-- [Awwwrds](https://www.awwwards.com/)
-- [Dribble](https://dribbble.com/)
-- [HackerNews-这地儿我上不去](https://news.ycombinator.com/)
-- [JoelOnSoftware-Joe谈软件](https://www.joelonsoftware.com/)
-- [MNWeekly-码农周刊](https://github.com/rogerzhu/MNWeeklyCategory)
-- [一大个Awesome](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh#what-should-a-programmer-know)
 
 
 
@@ -128,11 +114,6 @@
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 - [MacDynamicWallpaper(.heic)](https://dynamicwallpaper.club/)
 - [Neal.fun](https://neal.fun/)
+- [ASCII Art](https://textpaint.net/)
 
-
-
-## 社会化书签站点
-### 泛图片收藏
-> 就花瓣那种
-- [Pinterest](https://www.pinterest.com/)
-  [Pinbox-国产的在线服务，网址、图片、文本都可](https://withpinbox.com/)
+ 
