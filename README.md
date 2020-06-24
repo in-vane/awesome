@@ -4,7 +4,7 @@
 
 
 
-## 编程类
+## 编程
 ### CSS
 - [uiGradients随机给予的渐变色](https://uigradients.com/)
 - [ColorSchemeDesigner配色器](http://peise.net/tools/web/)
@@ -35,7 +35,7 @@
 - [CODELF变量命名](https://unbug.github.io/codelf/)
 - [Shields自定义Github徽章](https://shields.io/)
 - [CanIUse查询兼容性](https://www.caniuse.com/)
-- [Regexper正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F)
+- [Regexper正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F) [regexr](https://regexr.com/)
 - [Nginx的图形配置界面](https://www.digitalocean.com/community/tools/nginx)
 
 ### 面试
@@ -43,14 +43,15 @@
 
 
 
-## 文档类
+## 文档
 - [Writeathon在线写作工具](https://www.writeathon.cn/)
 - [OfficeConverter格式转换](https://cn.office-converter.com/)
 - [中文文案排版指南](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
+- [图片海报快捷施法](https://kt.fkw.com/) [canva](https://www.canva.cn/)
 
 
 
-## 资源类
+## 资源
 ### 图
 - [FreeStockPhotos图库](https://taken.photos/)
 - [The Art Institute of Chicago高清画集](https://www.artic.edu/collection)
