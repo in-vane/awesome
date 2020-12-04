@@ -15,6 +15,8 @@
 - [背景设计](https://speckyboy.com/css-background-effects/)
 - [奇思妙想](https://github.com/chokcoco/magicCss)
 - [占位图](https://generative-placeholders.glitch.me/)
+- [CSS 3D 示例](https://polypane.app/css-3d-transform-examples/)
+- [一个 JS 库，一键切换网页的亮模式和暗模式](https://perfect-dark-mode.netlify.app/)
 
 ### 小程序
 
@@ -56,6 +58,9 @@
 - [图片海报快捷施法](https://kt.fkw.com/) [canva](https://www.canva.cn/)
 
 ## 资源
+- [linux-命令](https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31)
+- [《编程之道》中英双语版](https://github.com/yikeke/tao-of-programming)
+
 
 ### 图
 
@@ -99,6 +104,7 @@
 - [好像是可以轻松一点做 PPT?](https://www.beautiful.ai)
 - [Resume 生成你的简历](https://resume.io/)
 - [一个法律仓库，在线搜索国内的法律](http://www.faxin.cn/keyword/index.aspx)
+- [这个中文仓库收集各种好用的在线小工具](https://github.com/zhaoolee/OnlineToolsBook)
 
 ## 有趣的站点
 
@@ -118,6 +124,9 @@
 - [Neal.fun](https://neal.fun/)
 - [ASCII Art](https://textpaint.net/)
 - [http-challenge](https://blog.huli.tw/2019/05/18/lidemy-http-challenge/)
+- [一个浏览器的 3D 显示实验项目，在网页上展示10万颗恒星，讲解宇宙知识。](http://stars.chromeexperiments.com/)
+- [随机打开一个有趣的网站](https://sharkle.com/)
+- [2020年度 JS13K Games 竞赛](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/)
 
 ## 设计独特的 Blog
 
