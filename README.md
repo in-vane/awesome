@@ -17,6 +17,8 @@
 - [占位图](https://generative-placeholders.glitch.me/)
 - [CSS 3D 示例](https://polypane.app/css-3d-transform-examples/)
 - [一个 JS 库，一键切换网页的亮模式和暗模式](https://perfect-dark-mode.netlify.app/)
+- [PaperCSS](https://github.com/papercss/papercss)
+- [WiredCSS](https://github.com/rough-stuff/wired-elements)
 
 ### 小程序
 
@@ -42,9 +44,11 @@
 - [CODELF 变量命名](https://unbug.github.io/codelf/)
 - [Shields 自定义 Github 徽章](https://shields.io/)
 - [CanIUse 查询兼容性](https://www.caniuse.com/)
-- [Regexper 正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F) [regexr](https://regexr.com/)
+- [Regexper 正则的图形解释工具](https://regexper.com/#%2F%5B0-9%5D%5Cs%5B0-9%5D%2F), [regexr](https://regexr.com/), [regexlib](https://regexlib.com/Search.aspx)
 - [Nginx 的图形配置界面](https://www.digitalocean.com/community/tools/nginx)
 - [favicon 生成](https://realfavicongenerator.net/)
+- [在线UI设计工具](http://uidea.tools/)
+- [ Chrome 需要用户许可的场景的示例](https://permission.site/)
 
 ### 面试
 
@@ -55,11 +59,12 @@
 - [Writeathon 在线写作工具](https://www.writeathon.cn/)
 - [OfficeConverter 格式转换](https://cn.office-converter.com/)
 - [中文文案排版指南](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
-- [图片海报快捷施法](https://kt.fkw.com/) [canva](https://www.canva.cn/)
+- [图片海报快捷施法](https://kt.fkw.com/), [canva](https://www.canva.cn/)
 
 ## 资源
 - [linux-命令](https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31)
 - [《编程之道》中英双语版](https://github.com/yikeke/tao-of-programming)
+- [](https://ebook.hep.com.cn/ebooks/index.html#/)
 
 
 ### 图
@@ -87,7 +92,7 @@
 - [Jiumo 鸠摩-电子书聚合检索](https://www.jiumodiary.com/)
 - [Genesis-英文电子书检索](http://gen.lib.rus.ec/)
 - [Gutenberg-公版书检索](http://www.gutenberg.org/)
-  > zy 的发现
+> zy 的发现
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [无产阶级图书馆](https://sites.google.com/site/proletariatlibrary/)
 
@@ -127,6 +132,8 @@
 - [一个浏览器的 3D 显示实验项目，在网页上展示10万颗恒星，讲解宇宙知识。](http://stars.chromeexperiments.com/)
 - [随机打开一个有趣的网站](https://sharkle.com/)
 - [2020年度 JS13K Games 竞赛](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/)
+- [一个在线工具，去除老照片的破损和折痕](https://hotpot.ai/restore-picture)
+- [地球史视频](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g/videos)
 
 ## 设计独特的 Blog
 
