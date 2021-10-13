@@ -6,7 +6,6 @@
 
 ### CSS
 
-- [uiGradients 随机给予的渐变色](https://uigradients.com/)
 - [ColorSchemeDesigner 配色器](http://peise.net/tools/web/)
 - [Grabient 可调颜色与角度的渐变色](https://www.grabient.com/)
 - [CSSFX-Hover 与 Loading 集](https://cssfx.netlify.com/)
@@ -19,6 +18,9 @@
 - [一个 JS 库，一键切换网页的亮模式和暗模式](https://perfect-dark-mode.netlify.app/)
 - [PaperCSS](https://github.com/papercss/papercss)
 - [WiredCSS](https://github.com/rough-stuff/wired-elements)
+- [拟物化样式生成器](https://neumorphism.io/#e0e0e0)
+- [谷歌出品的 CSS 教程](https://web.dev/learn/css/)
+- [一个网页 CSS 动画工具，可自由配置各种动画特效，并生成代码](https://animista.net/)
 
 ### 小程序
 
@@ -49,6 +51,8 @@
 - [favicon 生成](https://realfavicongenerator.net/)
 - [在线UI设计工具](http://uidea.tools/)
 - [ Chrome 需要用户许可的场景的示例](https://permission.site/)
+- [ASCII ART](https://textpaint.net/)
+- [使用 Markdown 格式编写 PPT 幻灯片](https://github.com/slidevjs/slidev)
 
 ### 面试
 
@@ -64,7 +68,12 @@
 ## 资源
 - [linux-命令](https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31)
 - [《编程之道》中英双语版](https://github.com/yikeke/tao-of-programming)
-- [](https://ebook.hep.com.cn/ebooks/index.html#/)
+- [《凤凰架构》](http://icyfenix.cn/)
+- [高等教育出版社的书](https://ebook.hep.com.cn/ebooks/index.html#/)
+- [Mac的软件](https://www.macwk.com/soft/all/p1)
+- [商务部网站提供全世界各国的《国别指南》，详细介绍各国基本情况](http://fec.mofcom.gov.cn/article/gbdqzn/)
+- [免费的砖，收集并介绍各种免费的前端开发资源，分成设计、前端、应用三大类](https://www.thosefree.com/)
+- [古典音乐家作品的MIDI文件](http://www.kunstderfuge.com/)
 
 
 ### 图
@@ -135,9 +144,10 @@
 - [一个在线工具，去除老照片的破损和折痕](https://hotpot.ai/restore-picture)
 - [地球史视频](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g/videos)
 
-## 设计独特的 Blog
+## Blog
 
 - [axton](https://axton.cc/)
 - [dandyweng](https://www.dandyweng.com/)
 - [chaoxuprime](https://chaoxuprime.com/)
 - [strml](https://www.strml.net/)
+- [echeverra](https://echeverra.cn/)
