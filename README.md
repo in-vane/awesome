@@ -21,6 +21,7 @@
 - [拟物化样式生成器](https://neumorphism.io/#e0e0e0)
 - [谷歌出品的 CSS 教程](https://web.dev/learn/css/)
 - [一个网页 CSS 动画工具，可自由配置各种动画特效，并生成代码](https://animista.net/)
+- [用 css 画各种形状](https://css-tricks.com/the-shapes-of-css/)
 
 ### 小程序
 
@@ -53,6 +54,7 @@
 - [ Chrome 需要用户许可的场景的示例](https://permission.site/)
 - [ASCII ART](https://textpaint.net/)
 - [使用 Markdown 格式编写 PPT 幻灯片](https://github.com/slidevjs/slidev)
+- [工信部推出的官方服务，查看个人名下登记了多少张电话卡](https://getsimnum.caict.ac.cn/#/)
 
 ### 面试
 
@@ -74,6 +76,8 @@
 - [商务部网站提供全世界各国的《国别指南》，详细介绍各国基本情况](http://fec.mofcom.gov.cn/article/gbdqzn/)
 - [免费的砖，收集并介绍各种免费的前端开发资源，分成设计、前端、应用三大类](https://www.thosefree.com/)
 - [古典音乐家作品的MIDI文件](http://www.kunstderfuge.com/)
+- [收集了中国333个地级市的报纸电子版和电视直播网址](https://laosheng.top/fly/)
+- [一个线上图书馆，提供中国历代传世文献。收藏的文本已超过三万部著作，为历代中文文献资料库最大者。](https://ctext.org/zhs)
 
 
 ### 图
