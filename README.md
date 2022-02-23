@@ -78,6 +78,7 @@
 - [古典音乐家作品的MIDI文件](http://www.kunstderfuge.com/)
 - [收集了中国333个地级市的报纸电子版和电视直播网址](https://laosheng.top/fly/)
 - [一个线上图书馆，提供中国历代传世文献。收藏的文本已超过三万部著作，为历代中文文献资料库最大者。](https://ctext.org/zhs)
+- [5000言：国学](https://5000yan.com/)
 
 
 ### 图
